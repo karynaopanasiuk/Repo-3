@@ -15,9 +15,17 @@ Hi! I'm **Karyna Opanasiuk** — a passionate UX/UI Designer based in Ukraine.
 - Figma & Prototyping
 - Design Engineering
 - User Research
+- HTML & CSS basics
+
+## Experience
+
+- Worked on various UI/UX projects for web and mobile
+- Created design systems and component libraries in Figma
+- Collaborated with developers to bring designs to life
 
 ## Fun Facts
 
 - I enjoy combining aesthetics with functionality
 - Always learning something new in the world of design and tech
 - Coffee enthusiast ☕
+- Big fan of minimalist design
